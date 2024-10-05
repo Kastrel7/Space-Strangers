@@ -1,0 +1,34 @@
+{
+    "name": "InputSystem",
+    "maps": [
+        {
+            "name": "Microspace",
+            "id": "782f5024-f711-4e32-baae-abe7f87a36a8",
+            "actions": [
+                {
+                    "name": "Pull",
+                    "type": "Button",
+                    "id": "45838591-fc73-40fd-9b0d-ccf4b20e0125",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8bd27aa7-8aa3-49c9-9532-ed905b8a0015",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "Tap",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pull",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

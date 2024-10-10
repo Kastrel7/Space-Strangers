@@ -9,3 +9,12 @@ The six of us brainstormed ideas on how we could keep astronuats mentally stimul
 This game is only a prototype, and could be developed furthur to be of more value to the astronauts using it. The team developed many more ideas for the project, but with the resources and time we had, this prototype is all we could get done.
 
 This game requires an Oculus Quest VR Headset (tested on Quest 2) with the supporting Meta Quest Link Software installed, a reliable quest link connection between a Windows PC and the headset, and requires OpenXR Runtime enabled in the Meta Quest Link app at Setttings > General. 
+
+## Controls
+Press A to go forward in the direction you're looking.
+
+Press X to go backwards.
+
+Point the ray from your right controller towards a planet, when it turns white, hold the grip and your speed will increase. 
+
+When on a planet, hold grip while targeting the planet and press B to water the plant. 
